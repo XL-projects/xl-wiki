@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxl_wiki=self.webpackChunkxl_wiki||[]).push([[8186],{7909:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/xl-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

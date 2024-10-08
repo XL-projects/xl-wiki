@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxl_wiki=self.webpackChunkxl_wiki||[]).push([[439],{2383:s=>{s.exports=JSON.parse('{"tags":[{"label":"Docusaurus","permalink":"/xl-wiki/blog/tags/docusaurus","description":"Docusaurus tag description","count":1}]}')}}]);

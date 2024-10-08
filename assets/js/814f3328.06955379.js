@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxl_wiki=self.webpackChunkxl_wiki||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/xl-wiki/blog/welcome","unlisted":false,"date":"2021-08-26T00:00:00.000Z"},{"title":"test","permalink":"/xl-wiki/blog/t-test","unlisted":false,"date":"2019-05-28T00:00:00.000Z"}]}')}}]);
