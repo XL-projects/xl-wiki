@@ -7,6 +7,8 @@ import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
 
+import Translate, {translate} from '@docusaurus/Translate';
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -20,7 +22,9 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+              <Translate>
+            XL-tutorial - 5min ⏱️
+                  </Translate>
           </Link>
         </div>
       </div>
@@ -32,8 +36,10 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+        title={`XL-projects`}
+      description= {
+        translate({message: 'XL-mod'})
+    }>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
