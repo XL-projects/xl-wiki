@@ -72,14 +72,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    algolia: {
-      apiKey: 'caf1f9f72df14a8fc8beff9234f603af',
-      indexName: 'xl-wiki',
-      contextualSearch: true,
-      placeholder: 'Searching some',
-      appId: 'GAYPXFISOU',
-      // other paranmetrs...
-    }
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
