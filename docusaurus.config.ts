@@ -72,6 +72,14 @@ const config: Config = {
   ],
 
   themeConfig: {
+    algolia: {
+      apiKey: 'caf1f9f72df14a8fc8beff9234f603af',
+      indexName: 'xl-wiki',
+      contextualSearch: true,
+      placeholder: 'Searching some',
+      appId: 'GAYPXFISOU',
+      // other paranmetrs...
+    }
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
@@ -89,7 +97,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/XL-projects/xl-wiki',
           label: 'GitHub',
           position: 'right',
         },
@@ -116,15 +124,15 @@ const config: Config = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://uh..',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/ZhBSkktCVn',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/nika_eol',
             },
           ],
         },
@@ -137,7 +145,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/XL-projects/xl-wiki',
             },
           ],
         },
