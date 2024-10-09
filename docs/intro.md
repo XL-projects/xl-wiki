@@ -4,6 +4,6 @@ sidebar_position: 1
 
 # Information
 Seens like infinished..
-:::warning
+:::warning Warning
 In development!
 :::
