@@ -115,7 +115,7 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'wtf is it?',
               href: 'https://uh..',
             },
             {
