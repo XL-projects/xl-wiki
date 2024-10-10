@@ -27,16 +27,13 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'rus', 'ukraine'],
+    locales: ['en', 'rus'],
     localeConfigs: {
       en: {
         label: 'English',
       },
       rus: {
         label: 'Русский',
-      },
-      ukraine: {
-        label: 'Українська',
       },
     },
   },
