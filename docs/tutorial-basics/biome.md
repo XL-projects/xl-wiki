@@ -16,4 +16,4 @@ This biome adds a forest in which there is endless snow all year round.
 This biome is not a plain like the others, it is a fairly rocky biome that will not bother you, there are dangerous animals in this biome, like a toothless tiger or others, a complete list can be found at this link on the page [PAGE].
 
 ### 2. Unresoled biome
-> Uh.. huh.. wait a sec , i will add this.. maybe tomorrow, yeah..? :<
+> Uh.. huh.. wait a sec , i will add this.. maybe tomorrow, yeah..?
