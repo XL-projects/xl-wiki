@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
-# Информация
+# Information
 ![welcome0001.png](welcome0001.png)
-> Давайте поговорим о нашем проекте!
+> Lets talk about our project!
 ---
-:::warning В разработке
-Следите за нашими социальными сетями , для того чтобы узнать , нововведения или обьявления , на данный момент мы не опубликовали релиз мода(
+:::warning Under developement process!
+See our updates and announcements on social media , currectly we can`t realise mod(
 :::

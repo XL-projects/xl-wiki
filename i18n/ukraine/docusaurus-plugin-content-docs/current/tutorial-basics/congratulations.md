@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Давайте начнем!
+# Lets start!
 ![start0001.png](start0001.png)
 
 ---
 
-> Окей кадет , давай начнем с того , что мод добавляет много функций , полный их список ты сможете узнать в странице ниже этой .
+> Ok cadet , let's start with the fact that the mod adds a lot of functions, you can find a full list of them on the page below this one.
