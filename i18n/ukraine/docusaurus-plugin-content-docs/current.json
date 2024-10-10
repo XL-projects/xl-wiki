@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Basics": {
+    "message": "Basics",
+    "description": "The label for category Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Basics.link.generated-index.description": {
+    "message": "learn basic mod information",
+    "description": "The generated-index page description for category Basics in sidebar tutorialSidebar"
+  }
+}
