@@ -4,7 +4,7 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Basics": {
-    "message": "Basics",
+    "message": "Основное",
     "description": "The label for category Basics in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Basics.link.generated-index.description": {
