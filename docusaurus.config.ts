@@ -49,6 +49,10 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          admonitions: {
+            keywords: ['note', 'tip', 'info', 'warning', 'danger'],
+            extendDefaults: true,
+          },
         },
         blog: {
           showReadingTime: true,
