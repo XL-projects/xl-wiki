@@ -78,7 +78,7 @@ const config: Config = {
       title: 'XL-projects',
       logo: {
         alt: 'xl',
-        src: 'img/logo.svg',
+        src: 'img/IMG_20241118_233312_585.svg',
       },
       items: [
         {
