@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'XL-mod',
-  tagline: 'Welcome cadet!',
+  title: 'XL-projects',
+  tagline: 'Добро пожаловать, кадет!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -27,8 +27,8 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'rus'],
+    defaultLocale: 'rus',
+    locales: ['rus', 'en'],
     localeConfigs: {
       en: {
         label: 'English',
@@ -59,7 +59,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/XL-projects/xl-wiki',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -75,7 +75,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'XL-mod',
+      title: 'XL-projects',
       logo: {
         alt: 'xl',
         src: 'img/logo.svg',
@@ -85,9 +85,9 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Вики',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Блог', position: 'left'},
         {
           href: 'https://github.com/XL-projects/xl-wiki',
           label: 'GitHub',

@@ -8,17 +8,7 @@ type FeatureItem = {
   description: JSX.Element;
 };
 
-const FeatureList: FeatureItem[] = [
-  {
-    title: 'Made with docusaurus',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Yep , see owr site on docusaurus!
-      </>
-    ),
-  }
-];
+const FeatureList: FeatureItem[] = [];
 
 function Feature({title, Svg, description}: FeatureItem) {
   return (

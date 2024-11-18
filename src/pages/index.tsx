@@ -23,7 +23,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro">
               <Translate>
-            XL-tutorial - 5min ⏱️
+            Начать путешествие!
                   </Translate>
           </Link>
         </div>
