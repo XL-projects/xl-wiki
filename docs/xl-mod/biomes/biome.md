@@ -10,14 +10,14 @@ sidebar_position: 1
 ![gug0001.png](gug0001.png)
 
 ---
-> The first thing you need to know is that there are a lot of biomes in fashion, and already there is a large area in them, believe me, which has its own life and its own new items, you can find them out below!
+> Первое, что вам нужно знать, это то, что в моде очень много биомов, и в них уже есть большая область, поверьте мне, у которой есть своя жизнь и свои новинки, вы можете ознакомиться с ними ниже!
 
 ---
 ### 1. Заснеженый биом
-This biome adds a forest in which there is endless snow all year round.
-This biome is not a plain like the others, it is a fairly rocky biome that will not bother you, there are dangerous animals in this biome, like a toothless tiger or others, a complete list can be found at this link on the page [PAGE].
+> Этот биом дополняет лес, в котором круглый год лежит бесконечный снег.
+Этот биом не такой равнинный, как другие, это довольно скалистый биом, который вас не побеспокоит, в этом биоме есть опасные животные, такие как беззубый тигр или другие, полный список можно найти по этой ссылке на странице [СТРАНИЦА].
 
 ![biomesconcepts.png](biomesconcepts.png)
 
 ### 2. Незаконьченный биом
-> Uh.. huh.. wait a sec , i will add this.. maybe tomorrow, yeah..?
+> Ух.. ха.. подожди секунду, я добавлю это.. может быть, завтра, да..?
