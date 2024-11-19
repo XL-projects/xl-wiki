@@ -1,9 +1,5 @@
 ---
 sidebar_position: 1
-
-title: Информация
-id: info
-description: 'mod-inkohnito'
 ---
 
 # Информация
